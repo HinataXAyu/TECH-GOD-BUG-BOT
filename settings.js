@@ -10,22 +10,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
+global.ownernomer = "918473891245"
+global.ownername = "𝞢𝙎𝙏𝞢𝙇𝙇𝞓✨🍷"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '918473891245'  //creator number
+global.ownername = '𝞢𝙎𝙏𝞢𝙇𝙇𝞓✨🍷' //owner name
+global.botname = 'Neko' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.packname = '𝞢𝙎𝙏𝞢𝙇𝙇𝞓✨🍷'
+global.author = '𝞢𝙎𝙏𝞢𝙇𝙇𝞓✨🍷\n\nContact: +918473891245'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '🌷'
 global.wm = "Youtube Tech God."
 
 //theme link
@@ -35,12 +35,12 @@ global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoRecording = true //auto recording
+global.autoTyping = truee //auto typing
 global.autorecordtype = true //auto typing + recording
-global.autoread = false //auto read messages
-global.autobio = true //auto update bio
-global.anti92 = false //auto block +92 
+global.autoread = true //auto read messages
+global.autobio = false //auto update bio
+global.anti92 = true //auto block +92 
 global.autoswview = true //auto view status/story
 
 //menu type 
@@ -59,11 +59,11 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by Tech god or premium user only',
-    admin: 'This feature can be used by Tech god or admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by Tech god or owner only',
-    group: 'This feature is only for groups',
+    prem: 'This feature can be used by premium user only',
+    admin: 'This feature can be used by admin only',
+    botAdmin: 'idiot gimme admin first',
+    owner: 'This feature can be used by 𝞢𝙎𝙏𝞢𝙇𝙇𝞓✨🍷 only',
+    group: 'wow you bewakuf its only for group',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
     error: 'Error!',
